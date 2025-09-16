@@ -1,0 +1,719 @@
+2025-07-05 12:49:19,815 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-05 12:49:19,816 - INFO - logging in using static token
+2025-07-05 12:49:21,628 - INFO - Shard ID None has connected to Gateway (Session ID: 4bc7538997545f9835e0efe4efcd5ac2).
+2025-07-05 12:49:23,633 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-07-05 12:49:24,154 - INFO - Successfully synced 5 command(s)
+2025-07-05 12:49:34,121 - INFO - User huuannnn (561907575700979712) joined voice channel test-voice (1390899906599846069)
+2025-07-05 12:49:47,544 - INFO - User huuannnn (561907575700979712) left voice channel test-voice (1390899906599846069)
+2025-07-05 12:49:47,545 - INFO - Voice channel test-voice is now empty, checking for paired channels
+2025-07-05 12:49:48,137 - INFO - Deleted voice channel: test-voice (1390899906599846069)
+2025-07-05 12:49:48,137 - INFO - Successfully deleted empty room: test-voice
+2025-07-05 12:50:16,809 - INFO - Selection community channels command used by huuannnn (561907575700979712) in AIAI - Selected channel: test-voice
+2025-07-05 12:50:16,810 - INFO - Community channel set to test-voice (1390932720997105767) by huuannnn
+2025-07-05 12:50:19,473 - INFO - User huuannnn (561907575700979712) joined voice channel test-voice (1390932720997105767)
+2025-07-05 12:50:19,474 - INFO - User huuannnn joined community channel test-voice
+2025-07-05 12:50:20,430 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1390932793453969429), Text=nguyễn-hữu-an (1390932791805476964)
+2025-07-05 12:50:21,334 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-07-05 12:50:28,118 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1390932793453969429)
+2025-07-05 12:50:28,119 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-07-05 12:50:28,119 - INFO - Personal room Nguyễn Hữu An is now empty, deleting channels
+2025-07-05 12:50:28,119 - INFO - Found paired text channel: nguyễn-hữu-an (1390932791805476964)
+2025-07-05 12:50:28,592 - INFO - Deleted voice channel: Nguyễn Hữu An (1390932793453969429)
+2025-07-05 12:50:28,990 - INFO - Deleted text channel: nguyễn-hữu-an (1390932791805476964)
+2025-07-05 12:50:28,991 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-07-05 12:50:28,991 - INFO - Successfully deleted empty room for Nguyễn Hữu An
+2025-07-05 12:52:47,082 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-05 12:52:47,083 - INFO - logging in using static token
+2025-07-05 12:52:48,840 - INFO - Shard ID None has connected to Gateway (Session ID: 90cf264a18a2c27d246cbb84907de966).
+2025-07-05 12:52:50,975 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-07-05 12:52:51,487 - INFO - Successfully synced 5 command(s)
+2025-07-05 12:52:57,476 - INFO - User huuannnn (561907575700979712) joined voice channel test-voice (1390932720997105767)
+2025-07-05 12:52:59,964 - INFO - User huuannnn (561907575700979712) left voice channel test-voice (1390932720997105767)
+2025-07-05 12:53:05,715 - INFO - Selection community channels command used by huuannnn (561907575700979712) in AIAI - Selected channel: test-voice
+2025-07-05 12:53:05,716 - INFO - Community channel set to test-voice (1390932720997105767) by huuannnn
+2025-07-05 12:53:07,206 - INFO - User huuannnn (561907575700979712) joined voice channel test-voice (1390932720997105767)
+2025-07-05 12:53:07,206 - INFO - User huuannnn joined community channel test-voice
+2025-07-05 12:53:08,132 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1390933497039949824), Text=nguyễn-hữu-an (1390933494951313500)
+2025-07-05 12:53:08,881 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-07-05 12:53:10,677 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1390933497039949824)
+2025-07-05 12:53:10,677 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-07-05 12:53:10,678 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-07-05 12:53:10,678 - INFO - Found paired text channel: nguyễn-hữu-an (1390933494951313500)
+2025-07-05 12:53:11,081 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1390933497039949824)
+2025-07-05 12:53:11,461 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1390933494951313500)
+2025-07-05 12:53:11,461 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-07-05 12:53:11,461 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-07-05 12:57:42,958 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-05 12:57:42,958 - INFO - logging in using static token
+2025-07-05 12:57:44,209 - INFO - Loaded extension: commands.reload
+2025-07-05 12:57:44,210 - INFO - Loaded extension: commands.hi
+2025-07-05 12:57:44,212 - INFO - Loaded extension: commands.remove_room
+2025-07-05 12:57:44,214 - INFO - Loaded extension: commands.voice_events
+2025-07-05 12:57:44,215 - INFO - Loaded extension: commands.selection_community_channels
+2025-07-05 12:57:44,216 - INFO - Loaded extension: commands.splash
+2025-07-05 12:57:44,216 - INFO - Loaded extension: commands.ping
+2025-07-05 12:57:45,007 - INFO - Shard ID None has connected to Gateway (Session ID: 0907d719ad66b49de8896209ea5286de).
+2025-07-05 12:57:47,151 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-07-05 12:57:47,666 - INFO - Successfully synced 6 command(s)
+2025-07-05 12:58:04,663 - INFO - Selection community channels command used by huuannnn (561907575700979712) in AIAI - Selected channel: test-voice
+2025-07-05 12:58:04,664 - INFO - Community channel set to test-voice (1390932720997105767) by huuannnn
+2025-07-05 12:58:06,405 - INFO - User huuannnn (561907575700979712) joined voice channel test-voice (1390932720997105767)
+2025-07-05 12:58:06,405 - INFO - User huuannnn joined community channel test-voice
+2025-07-05 12:58:07,278 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1390934751795478551), Text=nguyễn-hữu-an (1390934750004248606)
+2025-07-05 12:58:08,234 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-07-05 12:58:10,790 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1390934751795478551)
+2025-07-05 12:58:10,790 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-07-05 12:58:10,790 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-07-05 12:58:10,790 - INFO - Found paired text channel: nguyễn-hữu-an (1390934750004248606)
+2025-07-05 12:58:11,255 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1390934751795478551)
+2025-07-05 12:58:11,650 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1390934750004248606)
+2025-07-05 12:58:11,650 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-07-05 12:58:11,650 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-07-06 19:18:42,704 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-06 19:18:42,705 - INFO - logging in using static token
+2025-07-06 19:18:43,534 - ERROR - Failed to load extension commands.reload: cannot import name 'hi' from partially initialized module 'commands' (most likely due to a circular import) (/Users/annh/Project/Noema-Bot/commands/__init__.py)
+2025-07-06 19:18:43,536 - INFO - Loaded extension: commands.select_community_channels
+2025-07-06 19:18:43,536 - ERROR - Failed to load extension commands.remove_room: cannot import name 'hi' from partially initialized module 'commands' (most likely due to a circular import) (/Users/annh/Project/Noema-Bot/commands/__init__.py)
+2025-07-06 19:18:43,537 - ERROR - Failed to load extension commands.voice_events: cannot import name 'hi' from partially initialized module 'commands' (most likely due to a circular import) (/Users/annh/Project/Noema-Bot/commands/__init__.py)
+2025-07-06 19:18:43,537 - INFO - Loaded extension: commands.ping
+2025-07-06 19:18:44,263 - INFO - Shard ID None has connected to Gateway (Session ID: c6a09a2f8b9aff8ac2779fbd99e16eed).
+2025-07-06 19:18:46,268 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-07-06 19:18:46,747 - INFO - Successfully synced 2 command(s)
+2025-07-06 19:24:13,344 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-06 19:24:13,344 - INFO - logging in using static token
+2025-07-06 19:24:14,421 - ERROR - Failed to load extension commands.reload: cannot import name 'hi' from partially initialized module 'commands' (most likely due to a circular import) (/Users/annh/Project/Noema-Bot/commands/__init__.py)
+2025-07-06 19:24:14,421 - INFO - Loaded extension: commands.select_community_channels
+2025-07-06 19:24:14,421 - ERROR - Failed to load extension commands.remove_room: cannot import name 'hi' from partially initialized module 'commands' (most likely due to a circular import) (/Users/annh/Project/Noema-Bot/commands/__init__.py)
+2025-07-06 19:24:14,422 - ERROR - Failed to load extension commands.voice_events: cannot import name 'hi' from partially initialized module 'commands' (most likely due to a circular import) (/Users/annh/Project/Noema-Bot/commands/__init__.py)
+2025-07-06 19:24:14,422 - INFO - Loaded extension: commands.ping
+2025-07-06 19:24:15,079 - INFO - Shard ID None has connected to Gateway (Session ID: faff43ed70b551d0fc8b3124cd980a6d).
+2025-07-06 19:24:17,098 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-07-06 19:24:17,490 - INFO - Successfully synced 2 command(s)
+2025-07-06 19:24:20,860 - INFO - Selection community channels command used by huuannnn (561907575700979712) in AIAI - Selected channel: Create Voice Room
+2025-07-06 19:24:20,860 - INFO - Community channel set to Create Voice Room (1391393765343891467) by huuannnn
+2025-07-06 19:24:21,171 - ERROR - Ignoring exception in command 'select_community_channels'
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/commands.py", line 857, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/annh/Project/Noema-Bot/commands/select_community_channels.py", line 27, in select_community_channels
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/interactions.py", line 1004, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'select_community_channels' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-06 19:25:07,165 - INFO - Selection community channels command used by huuannnn (561907575700979712) in AIAI - Selected channel: Create Voice Room
+2025-07-06 19:25:07,167 - INFO - Community channel set to Create Voice Room (1391393765343891467) by huuannnn
+2025-07-06 19:25:07,521 - ERROR - Ignoring exception in command 'select_community_channels'
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/commands.py", line 857, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/annh/Project/Noema-Bot/commands/select_community_channels.py", line 27, in select_community_channels
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/interactions.py", line 1004, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'select_community_channels' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-06 19:26:39,935 - ERROR - Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "reload" is not found
+2025-07-06 19:27:24,098 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-06 19:27:24,099 - INFO - logging in using static token
+2025-07-06 19:27:24,921 - INFO - Loaded extension: commands.reload
+2025-07-06 19:27:24,922 - INFO - Loaded extension: commands.select_community_channels
+2025-07-06 19:27:24,924 - INFO - Loaded extension: commands.remove_room
+2025-07-06 19:27:24,925 - INFO - Loaded extension: commands.voice_events
+2025-07-06 19:27:24,925 - INFO - Loaded extension: commands.ping
+2025-07-06 19:27:25,554 - INFO - Shard ID None has connected to Gateway (Session ID: fad4f504abf1a61da6b0da26f978a8f3).
+2025-07-06 19:27:27,559 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-07-06 19:27:28,278 - INFO - Successfully synced 4 command(s)
+2025-07-06 19:27:48,970 - INFO - Reload command used by huuannnn (561907575700979712) in AIAI
+2025-07-06 19:27:52,871 - ERROR - Error in select_community_channels command: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-07-06 19:28:07,327 - INFO - User huuannnn (561907575700979712) joined voice channel Create Voice Room (1391393765343891467)
+2025-07-06 19:28:14,006 - INFO - User huuannnn (561907575700979712) left voice channel Create Voice Room (1391393765343891467)
+2025-07-06 19:28:28,004 - INFO - Commands reloaded successfully by huuannnn
+2025-07-06 19:28:28,382 - ERROR - Failed to reload commands: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-06 19:28:28,666 - ERROR - Ignoring exception in command 'reload'
+Traceback (most recent call last):
+  File "/Users/annh/Project/Noema-Bot/commands/reload.py", line 24, in reload
+    await interaction.response.send_message("Commands reloaded successfully!", ephemeral=True)
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/interactions.py", line 1004, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/commands.py", line 857, in _do_call
+    return await self._callback(self.binding, interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/annh/Project/Noema-Bot/commands/reload.py", line 27, in reload
+    await interaction.response.send_message(f"Failed to reload commands: {str(e)}", ephemeral=True)
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/interactions.py", line 1004, in send_message
+    response = await adapter.create_interaction_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/webhook/async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/tree.py", line 1310, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/commands.py", line 883, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/app_commands/commands.py", line 876, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'reload' raised an exception: NotFound: 404 Not Found (error code: 10062): Unknown interaction
+2025-07-06 19:28:44,135 - INFO - Reload command used by huuannnn (561907575700979712) in AIAI
+2025-07-06 19:28:44,660 - INFO - Commands reloaded successfully by huuannnn
+2025-07-06 19:28:52,659 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-07-06 19:28:55,947 - INFO - User huuannnn (561907575700979712) joined voice channel Create Voice Room (1391393765343891467)
+2025-07-06 19:29:03,123 - INFO - User huuannnn (561907575700979712) left voice channel Create Voice Room (1391393765343891467)
+2025-07-06 19:29:19,135 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-06 19:29:19,136 - INFO - logging in using static token
+2025-07-06 19:29:20,112 - INFO - Loaded extension: commands.reload
+2025-07-06 19:29:20,113 - INFO - Loaded extension: commands.select_community_channels
+2025-07-06 19:29:20,114 - INFO - Loaded extension: commands.remove_room
+2025-07-06 19:29:20,115 - INFO - Loaded extension: commands.voice_events
+2025-07-06 19:29:20,116 - INFO - Loaded extension: commands.ping
+2025-07-06 19:29:20,847 - INFO - Shard ID None has connected to Gateway (Session ID: 774517c9678e5ae4607f5b283414f374).
+2025-07-06 19:29:22,854 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-07-06 19:29:23,267 - INFO - Successfully synced 4 command(s)
+2025-07-06 19:29:31,764 - INFO - Selection community channels command used by huuannnn (561907575700979712) in AIAI - Selected channel: Create Voice Room
+2025-07-06 19:29:31,764 - INFO - Community channel set to Create Voice Room (1391393765343891467) by huuannnn
+2025-07-06 19:29:39,483 - INFO - User huuannnn (561907575700979712) joined voice channel Create Voice Room (1391393765343891467)
+2025-07-06 19:29:39,483 - INFO - User huuannnn joined community channel Create Voice Room
+2025-07-06 19:29:40,279 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1391395676927168627), Text=nguyễn-hữu-an (1391395675182338119)
+2025-07-06 19:29:41,143 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-07-06 19:29:50,019 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1391395676927168627)
+2025-07-06 19:29:50,019 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-07-06 19:29:50,019 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-07-06 19:29:50,019 - INFO - Found paired text channel: nguyễn-hữu-an (1391395675182338119)
+2025-07-06 19:29:50,384 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1391395676927168627)
+2025-07-06 19:29:50,776 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1391395675182338119)
+2025-07-06 19:29:50,776 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-07-06 19:29:50,776 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-13 09:33:20,913 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-13 09:33:20,914 - INFO - logging in using static token
+2025-09-13 09:33:22,258 - INFO - Loaded extension: commands.reload
+2025-09-13 09:33:22,263 - INFO - Loaded extension: commands.select_community_channels
+2025-09-13 09:33:22,268 - INFO - Loaded extension: commands.remove_room
+2025-09-13 09:33:22,271 - INFO - Loaded extension: commands.voice_events
+2025-09-13 09:33:22,273 - INFO - Loaded extension: commands.ping
+2025-09-13 09:33:23,221 - INFO - Shard ID None has connected to Gateway (Session ID: 0e39ada058af9a4e5f40221cc7772599).
+2025-09-13 09:33:25,296 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-13 09:33:25,936 - INFO - Successfully synced 4 command(s)
+2025-09-13 09:33:37,972 - INFO - Selection community channels command used by huuannnn (561907575700979712) in Nghiên cứu khoa học - Selected channel: 👉 Tạo kênh mới
+2025-09-13 09:33:37,973 - INFO - Community channel set to 👉 Tạo kênh mới (1408802369235587094) by huuannnn
+2025-09-13 09:33:40,450 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh mới (1408802369235587094)
+2025-09-13 09:33:40,451 - ERROR - Ignoring exception in on_voice_state_update
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/annh/Project/Noema/commands/voice_events.py", line 15, in on_voice_state_update
+    community_channel = self.bot.community_channels[interaction.guild.id]
+                                                    ^^^^^^^^^^^
+NameError: name 'interaction' is not defined
+2025-09-13 09:33:43,770 - INFO - User huuannnn (561907575700979712) left voice channel 👉 Tạo kênh mới (1408802369235587094)
+2025-09-13 09:34:41,373 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-13 09:34:41,373 - INFO - logging in using static token
+2025-09-13 09:34:42,343 - INFO - Loaded extension: commands.reload
+2025-09-13 09:34:42,344 - INFO - Loaded extension: commands.select_community_channels
+2025-09-13 09:34:42,345 - INFO - Loaded extension: commands.remove_room
+2025-09-13 09:34:42,349 - INFO - Loaded extension: commands.voice_events
+2025-09-13 09:34:42,350 - INFO - Loaded extension: commands.ping
+2025-09-13 09:34:43,326 - INFO - Shard ID None has connected to Gateway (Session ID: fd29773a4bbd83933adb32218d6e3354).
+2025-09-13 09:34:45,350 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-13 09:34:45,801 - INFO - Successfully synced 4 command(s)
+2025-09-13 09:34:52,535 - INFO - Selection community channels command used by huuannnn (561907575700979712) in Nghiên cứu khoa học - Selected channel: 👉 Tạo kênh mới
+2025-09-13 09:34:52,536 - INFO - Community channel set to 👉 Tạo kênh mới (1408802369235587094) by huuannnn
+2025-09-13 09:34:53,778 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh mới (1408802369235587094)
+2025-09-13 09:34:53,779 - ERROR - Ignoring exception in on_voice_state_update
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/annh/Project/Noema/commands/voice_events.py", line 16, in on_voice_state_update
+    if community_channel and after.channel.id in [channel.id for channel in community_channel]:
+                                                                            ^^^^^^^^^^^^^^^^^
+TypeError: 'VoiceChannel' object is not iterable
+2025-09-13 09:35:41,309 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-13 09:35:41,310 - INFO - logging in using static token
+2025-09-13 09:35:42,333 - INFO - Loaded extension: commands.reload
+2025-09-13 09:35:42,337 - INFO - Loaded extension: commands.select_community_channels
+2025-09-13 09:35:42,338 - INFO - Loaded extension: commands.remove_room
+2025-09-13 09:35:42,339 - INFO - Loaded extension: commands.voice_events
+2025-09-13 09:35:42,344 - INFO - Loaded extension: commands.ping
+2025-09-13 09:35:43,176 - INFO - Shard ID None has connected to Gateway (Session ID: 5c07559a36ebcf25ceacc48ae68160b2).
+2025-09-13 09:35:45,133 - INFO - User huuannnn (561907575700979712) left voice channel 👉 Tạo kênh mới (1408802369235587094)
+2025-09-13 09:35:45,213 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-13 09:35:45,708 - INFO - Successfully synced 4 command(s)
+2025-09-13 09:35:51,172 - INFO - Selection community channels command used by huuannnn (561907575700979712) in Nghiên cứu khoa học - Selected channel: 👉 Tạo kênh mới
+2025-09-13 09:35:51,172 - INFO - Community channel set to 👉 Tạo kênh mới (1408802369235587094) by huuannnn
+2025-09-13 09:35:52,290 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh mới (1408802369235587094)
+2025-09-13 09:35:52,290 - INFO - User huuannnn joined community channel 👉 Tạo kênh mới
+2025-09-13 09:35:53,101 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416251008509673603), Text=nguyễn-hữu-an (1416251006584623168)
+2025-09-13 09:35:53,863 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:36:03,100 - INFO - Selection community channels command used by huuannnn (561907575700979712) in ICON CLUB - Selected channel: 👉 Tạo kênh thoại
+2025-09-13 09:36:03,101 - INFO - Community channel set to 👉 Tạo kênh thoại (874370800633909348) by huuannnn
+2025-09-13 09:36:06,215 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416251008509673603)
+2025-09-13 09:36:06,215 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-13 09:36:06,216 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-13 09:36:06,216 - INFO - Found paired text channel: nguyễn-hữu-an (1416251006584623168)
+2025-09-13 09:36:06,240 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:36:06,240 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-13 09:36:06,692 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416251008509673603)
+2025-09-13 09:36:07,234 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1416251006584623168)
+2025-09-13 09:36:07,234 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-09-13 09:36:07,235 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-13 09:36:07,563 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416251068920369152), Text=nguyễn-hữu-an (1416251066399461458)
+2025-09-13 09:36:08,437 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:36:17,972 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416251068920369152)
+2025-09-13 09:36:17,972 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-13 09:36:17,973 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-13 09:36:17,973 - INFO - Found paired text channel: nguyễn-hữu-an (1416251066399461458)
+2025-09-13 09:36:18,378 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416251068920369152)
+2025-09-13 09:36:18,894 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1416251066399461458)
+2025-09-13 09:36:18,894 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-09-13 09:36:18,894 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-13 09:36:28,423 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:36:28,423 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-13 09:36:29,441 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416251160934875230), Text=nguyễn-hữu-an (1416251158585938002)
+2025-09-13 09:36:30,207 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:36:40,795 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416251160934875230)
+2025-09-13 09:36:40,795 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-13 09:36:40,796 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-13 09:36:40,796 - INFO - Found paired text channel: nguyễn-hữu-an (1416251158585938002)
+2025-09-13 09:36:41,223 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416251160934875230)
+2025-09-13 09:36:41,644 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1416251158585938002)
+2025-09-13 09:36:41,644 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-09-13 09:36:41,644 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-13 09:37:15,820 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-13 09:37:15,820 - INFO - logging in using static token
+2025-09-13 09:37:16,777 - INFO - Loaded extension: commands.reload
+2025-09-13 09:37:16,778 - INFO - Loaded extension: commands.select_community_channels
+2025-09-13 09:37:16,780 - INFO - Loaded extension: commands.remove_room
+2025-09-13 09:37:16,781 - INFO - Loaded extension: commands.voice_events
+2025-09-13 09:37:16,782 - INFO - Loaded extension: commands.ping
+2025-09-13 09:37:18,906 - INFO - Shard ID None has connected to Gateway (Session ID: cce92bb821735f67fdd393c819dbc218).
+2025-09-13 09:37:20,972 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-13 09:37:21,393 - INFO - Successfully synced 4 command(s)
+2025-09-13 09:37:25,569 - INFO - Selection community channels command used by huuannnn (561907575700979712) in ICON CLUB - Selected channel: 👉 Tạo kênh thoại
+2025-09-13 09:37:25,570 - INFO - Community channel set to 👉 Tạo kênh thoại (874370800633909348) by huuannnn
+2025-09-13 09:37:27,268 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:37:27,268 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-13 09:37:28,676 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416251408931491841), Text=nguyễn-hữu-an (1416251405785759745)
+2025-09-13 09:37:29,583 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:37:51,629 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416251408931491841)
+2025-09-13 09:37:51,630 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-13 09:37:51,630 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-13 09:37:51,630 - INFO - Found paired text channel: nguyễn-hữu-an (1416251405785759745)
+2025-09-13 09:37:52,273 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416251408931491841)
+2025-09-13 09:37:52,685 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1416251405785759745)
+2025-09-13 09:37:52,685 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-09-13 09:37:52,685 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-13 09:38:55,387 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-13 09:38:55,387 - INFO - logging in using static token
+2025-09-13 09:38:56,407 - INFO - Loaded extension: commands.reload
+2025-09-13 09:38:56,408 - INFO - Loaded extension: commands.select_community_channels
+2025-09-13 09:38:56,409 - INFO - Loaded extension: commands.remove_room
+2025-09-13 09:38:56,413 - INFO - Loaded extension: commands.voice_events
+2025-09-13 09:38:56,415 - INFO - Loaded extension: commands.ping
+2025-09-13 09:38:57,640 - INFO - Shard ID None has connected to Gateway (Session ID: 5ac27b1023a3cbf5f43caa66572933c3).
+2025-09-13 09:38:59,664 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-13 09:39:00,231 - INFO - Successfully synced 4 command(s)
+2025-09-13 09:39:00,598 - INFO - Selection community channels command used by huuannnn (561907575700979712) in ICON CLUB - Selected channel: 👉 Tạo kênh thoại
+2025-09-13 09:39:00,599 - INFO - Community channel set to 👉 Tạo kênh thoại (874370800633909348) by huuannnn
+2025-09-13 09:39:01,782 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:39:01,782 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-13 09:39:01,783 - INFO - Category for new channels: ─── Voice Channels ───
+2025-09-13 09:39:02,262 - INFO - Created text channel nguyễn-hữu-an in category: ─── Voice Channels ───
+2025-09-13 09:39:02,737 - INFO - Created voice channel Nguyễn Hữu An in category: ─── Voice Channels ───
+2025-09-13 09:39:02,737 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416251803590463712), Text=nguyễn-hữu-an (1416251801849696316)
+2025-09-13 09:39:03,572 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:39:23,463 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416251803590463712)
+2025-09-13 09:39:23,464 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-13 09:39:23,465 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-13 09:39:23,466 - INFO - Found paired text channel: nguyễn-hữu-an (1416251801849696316)
+2025-09-13 09:39:23,971 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416251803590463712)
+2025-09-13 09:39:24,406 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1416251801849696316)
+2025-09-13 09:39:24,407 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-09-13 09:39:24,407 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-13 09:39:41,023 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:39:41,023 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-13 09:39:41,024 - INFO - Category for new channels: ─── Voice Channels ───
+2025-09-13 09:39:41,645 - INFO - Created text channel nguyễn-hữu-an in category: ─── Voice Channels ───
+2025-09-13 09:39:42,247 - INFO - Created voice channel Nguyễn Hữu An in category: ─── Voice Channels ───
+2025-09-13 09:39:42,248 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416251969118404619), Text=nguyễn-hữu-an (1416251966983508089)
+2025-09-13 09:39:43,191 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:41:49,749 - INFO - User huuannnn (561907575700979712) left voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:42:07,103 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:42:07,103 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-13 09:42:07,104 - INFO - Category for new channels: ─── Voice Channels ───
+2025-09-13 09:42:07,836 - INFO - Created text channel nguyễn-hữu-an in category: ─── Voice Channels ───
+2025-09-13 09:42:08,273 - INFO - Created voice channel Nguyễn Hữu An in category: ─── Voice Channels ───
+2025-09-13 09:42:08,273 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416252582103486494), Text=nguyễn-hữu-an (1416252580127969350)
+2025-09-13 09:42:09,072 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:42:16,928 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416252582103486494)
+2025-09-13 09:42:16,929 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-13 09:42:16,929 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-13 09:42:16,929 - INFO - Found paired text channel: nguyễn-hữu-an (1416252580127969350)
+2025-09-13 09:42:17,414 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416252582103486494)
+2025-09-13 09:42:17,826 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1416252580127969350)
+2025-09-13 09:42:17,827 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-09-13 09:42:17,827 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-13 09:43:28,509 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-13 09:43:28,510 - INFO - logging in using static token
+2025-09-13 09:43:29,351 - INFO - Loaded extension: commands.reload
+2025-09-13 09:43:29,352 - INFO - Loaded extension: commands.select_community_channels
+2025-09-13 09:43:29,352 - INFO - Loaded extension: commands.remove_room
+2025-09-13 09:43:29,354 - INFO - Loaded extension: commands.voice_events
+2025-09-13 09:43:29,355 - INFO - Loaded extension: commands.ping
+2025-09-13 09:43:30,161 - INFO - Shard ID None has connected to Gateway (Session ID: f2647d8d71879968cc7b61cd303fbce5).
+2025-09-13 09:43:32,172 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-13 09:43:32,609 - INFO - Successfully synced 4 command(s)
+2025-09-13 09:43:35,235 - INFO - Selection community channels command used by huuannnn (561907575700979712) in ICON CLUB - Selected channel: 👉 Tạo kênh thoại
+2025-09-13 09:43:35,235 - INFO - Community channel set to 👉 Tạo kênh thoại (874370800633909348) by huuannnn
+2025-09-13 09:43:38,045 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:43:38,045 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-13 09:43:38,045 - INFO - Category for new channels: ─── Voice Channels ───
+2025-09-13 09:43:38,536 - INFO - Created voice channel Nguyễn Hữu An in category: ─── Voice Channels ───
+2025-09-13 09:43:39,774 - INFO - Created text channel nguyễn-hữu-an in category: ─── Voice Channels ───
+2025-09-13 09:43:39,776 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416252960425508977), Text=nguyễn-hữu-an (1416252964900966480)
+2025-09-13 09:43:40,845 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:44:08,175 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416252960425508977)
+2025-09-13 09:44:08,176 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-13 09:44:08,176 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-13 09:44:08,176 - INFO - Found paired text channel: nguyễn-hữu-an (1416252964900966480)
+2025-09-13 09:44:08,712 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416252960425508977)
+2025-09-13 09:44:09,132 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1416252964900966480)
+2025-09-13 09:44:09,133 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-09-13 09:44:09,133 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-13 09:44:21,879 - INFO - Selection community channels command used by huuannnn (561907575700979712) in Nghiên cứu khoa học - Selected channel: 👉 Tạo kênh mới
+2025-09-13 09:44:21,879 - INFO - Community channel set to 👉 Tạo kênh mới (1408802369235587094) by huuannnn
+2025-09-13 09:44:22,655 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh mới (1408802369235587094)
+2025-09-13 09:44:22,655 - INFO - User huuannnn joined community channel 👉 Tạo kênh mới
+2025-09-13 09:44:22,655 - INFO - Category for new channels: ---- Community ----
+2025-09-13 09:44:23,096 - INFO - Created voice channel Nguyễn Hữu An in category: ---- Community ----
+2025-09-13 09:44:24,035 - INFO - Created text channel nguyễn-hữu-an in category: ---- Community ----
+2025-09-13 09:44:24,036 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416253147416105052), Text=nguyễn-hữu-an (1416253151392043069)
+2025-09-13 09:44:24,886 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:44:36,586 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416253147416105052)
+2025-09-13 09:44:36,586 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-13 09:44:36,587 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-13 09:44:36,587 - INFO - Found paired text channel: nguyễn-hữu-an (1416253151392043069)
+2025-09-13 09:44:36,978 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416253147416105052)
+2025-09-13 09:44:37,389 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1416253151392043069)
+2025-09-13 09:44:37,390 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-09-13 09:44:37,390 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-13 09:45:13,785 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-13 09:45:13,786 - INFO - logging in using static token
+2025-09-13 09:45:14,725 - INFO - Loaded extension: commands.reload
+2025-09-13 09:45:14,727 - INFO - Loaded extension: commands.select_community_channels
+2025-09-13 09:45:14,729 - INFO - Loaded extension: commands.remove_room
+2025-09-13 09:45:14,734 - INFO - Loaded extension: commands.voice_events
+2025-09-13 09:45:14,736 - INFO - Loaded extension: commands.ping
+2025-09-13 09:45:15,508 - INFO - Shard ID None has connected to Gateway (Session ID: 11196790433788060a3199c6ff83e535).
+2025-09-13 09:45:17,569 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-13 09:45:18,078 - INFO - Successfully synced 4 command(s)
+2025-09-13 09:45:21,117 - INFO - Selection community channels command used by huuannnn (561907575700979712) in ICON CLUB - Selected channel: 👉 Tạo kênh thoại
+2025-09-13 09:45:21,117 - INFO - Community channel set to 👉 Tạo kênh thoại (874370800633909348) by huuannnn
+2025-09-13 09:45:22,318 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:45:22,318 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-13 09:45:22,318 - INFO - Category for new channels: ─── Voice Channels ───
+2025-09-13 09:45:22,908 - INFO - Created voice channel Nguyễn Hữu An in category: ─── Voice Channels ───
+2025-09-13 09:45:23,971 - INFO - Created text channel nguyễn-hữu-an in category: ─── Voice Channels ───
+2025-09-13 09:45:23,972 - INFO - Voice channel position: 4, category: ─── Voice Channels ───
+2025-09-13 09:45:23,972 - INFO - Text channel position: 5, category: ─── Voice Channels ───
+2025-09-13 09:45:23,972 - ERROR - Error creating channels for Nguyễn Hữu An: 'VoiceChannel' object has no attribute 'fetch'
+2025-09-13 09:48:47,105 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-13 09:48:47,105 - INFO - logging in using static token
+2025-09-13 09:48:47,962 - INFO - Loaded extension: commands.reload
+2025-09-13 09:48:47,963 - INFO - Loaded extension: commands.select_community_channels
+2025-09-13 09:48:47,963 - INFO - Loaded extension: commands.remove_room
+2025-09-13 09:48:47,965 - INFO - Loaded extension: commands.voice_events
+2025-09-13 09:48:47,966 - INFO - Loaded extension: commands.ping
+2025-09-13 09:48:48,756 - INFO - Shard ID None has connected to Gateway (Session ID: 2de7da14428c97f5953dc3eccb3127a5).
+2025-09-13 09:48:50,766 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-13 09:48:51,237 - INFO - Successfully synced 4 command(s)
+2025-09-13 09:48:55,639 - INFO - Selection community channels command used by huuannnn (561907575700979712) in ICON CLUB - Selected channel: 👉 Tạo kênh thoại
+2025-09-13 09:48:55,640 - INFO - Community channel set to 👉 Tạo kênh thoại (874370800633909348) by huuannnn
+2025-09-13 09:48:56,873 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:48:56,874 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-13 09:48:57,759 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416254299431895202), Text=nguyễn-hữu-an (1416254297838063727)
+2025-09-13 09:48:58,524 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:51:03,441 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-13 09:51:03,442 - INFO - logging in using static token
+2025-09-13 09:51:04,272 - INFO - Loaded extension: commands.reload
+2025-09-13 09:51:04,272 - INFO - Loaded extension: commands.select_community_channels
+2025-09-13 09:51:04,273 - INFO - Loaded extension: commands.remove_room
+2025-09-13 09:51:04,307 - INFO - Loaded extension: commands.voice_events
+2025-09-13 09:51:04,307 - INFO - Loaded extension: commands.ping
+2025-09-13 09:51:05,094 - INFO - Shard ID None has connected to Gateway (Session ID: f151a5e2e4a3bf99240ac34e85552e81).
+2025-09-13 09:51:07,113 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-13 09:51:07,565 - INFO - Successfully synced 4 command(s)
+2025-09-13 09:51:08,969 - INFO - Selection community channels command used by huuannnn (561907575700979712) in ICON CLUB - Selected channel: 👉 Tạo kênh thoại
+2025-09-13 09:51:08,969 - INFO - Community channel set to 👉 Tạo kênh thoại (874370800633909348) by huuannnn
+2025-09-13 09:51:19,273 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416254299431895202)
+2025-09-13 09:51:19,273 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-13 09:51:19,273 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-13 09:51:20,006 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416254299431895202)
+2025-09-13 09:51:20,006 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-13 09:51:29,549 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-13 09:51:29,550 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-13 09:51:30,165 - INFO - Created voice channel Nguyễn Hữu An in category: --- Voice Channels ---
+2025-09-13 09:51:30,604 - INFO - Created text channel nguyễn-hữu-an in category: --- Voice Channels ---
+2025-09-13 09:51:37,254 - INFO - Updated text channel position to be after voice channel
+2025-09-13 09:51:37,254 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416254938287439984), Text=nguyễn-hữu-an (1416254940518551683)
+2025-09-13 09:51:38,219 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-13 09:52:07,434 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416254938287439984)
+2025-09-13 09:52:07,435 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-13 09:52:07,435 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-13 09:52:07,436 - INFO - Found paired text channel: nguyễn-hữu-an (1416254940518551683)
+2025-09-13 09:52:08,049 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416254938287439984)
+2025-09-13 09:52:08,582 - INFO - Deleted auto-created text channel: nguyễn-hữu-an (1416254940518551683)
+2025-09-13 09:52:08,583 - INFO - Removed channel pairs for Nguyễn Hữu An
+2025-09-13 09:52:08,583 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-14 21:05:31,402 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-14 21:05:31,403 - INFO - logging in using static token
+2025-09-14 21:05:32,317 - INFO - Loaded extension: commands.reload
+2025-09-14 21:05:32,318 - INFO - Loaded extension: commands.select_community_channels
+2025-09-14 21:05:32,319 - INFO - Loaded extension: commands.remove_room
+2025-09-14 21:05:32,323 - INFO - Loaded extension: commands.voice_events
+2025-09-14 21:05:32,323 - INFO - Loaded extension: commands.ping
+2025-09-14 21:05:33,053 - INFO - Shard ID None has connected to Gateway (Session ID: bff97ae008ed8e3f983097c5cb1865da).
+2025-09-14 21:05:35,084 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-14 21:05:35,227 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416786755515977759)
+2025-09-14 21:05:35,227 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-14 21:05:35,227 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-14 21:05:35,565 - INFO - Successfully synced 4 command(s)
+2025-09-14 21:05:35,616 - ERROR - Error deleting channels for Nguyễn Hữu An: 404 Not Found (error code: 10003): Unknown Channel
+2025-09-14 21:06:07,896 - INFO - User huuannnn (561907575700979712) joined voice channel bod-voice (1410428020472283176)
+2025-09-14 21:06:07,898 - ERROR - Ignoring exception in on_voice_state_update
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/annh/Project/Noema/commands/voice_events.py", line 15, in on_voice_state_update
+    print(self.community_channels)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'VoiceEvents' object has no attribute 'community_channels'
+2025-09-14 21:06:09,319 - INFO - User huuannnn (561907575700979712) left voice channel bod-voice (1410428020472283176)
+2025-09-14 21:06:16,916 - ERROR - Error in select_community_channels command: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-09-14 21:06:23,128 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:06:45,580 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-14 21:06:45,580 - INFO - logging in using static token
+2025-09-14 21:06:46,446 - INFO - Loaded extension: commands.reload
+2025-09-14 21:06:46,447 - INFO - Loaded extension: commands.select_community_channels
+2025-09-14 21:06:46,448 - INFO - Loaded extension: commands.remove_room
+2025-09-14 21:06:46,448 - INFO - Loaded extension: commands.voice_events
+2025-09-14 21:06:46,448 - INFO - Loaded extension: commands.ping
+2025-09-14 21:06:47,212 - INFO - Shard ID None has connected to Gateway (Session ID: 2a8426627c90a6f21bea71dd7e978a24).
+2025-09-14 21:06:49,227 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-14 21:06:49,617 - INFO - Successfully synced 4 command(s)
+2025-09-14 21:06:53,303 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:07:09,516 - ERROR - Error in select_community_channels command: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-09-14 21:07:19,185 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:07:25,919 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-14 21:07:25,920 - INFO - logging in using static token
+2025-09-14 21:07:26,723 - INFO - Loaded extension: commands.reload
+2025-09-14 21:07:26,724 - INFO - Loaded extension: commands.select_community_channels
+2025-09-14 21:07:26,725 - INFO - Loaded extension: commands.remove_room
+2025-09-14 21:07:26,725 - INFO - Loaded extension: commands.voice_events
+2025-09-14 21:07:26,725 - INFO - Loaded extension: commands.ping
+2025-09-14 21:07:27,397 - INFO - Shard ID None has connected to Gateway (Session ID: 2fe7a4248d722394ef0ed681651a5e5b).
+2025-09-14 21:07:29,415 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-14 21:07:29,880 - INFO - Successfully synced 4 command(s)
+2025-09-14 21:07:36,215 - INFO - Selection community channels command used by huuannnn (561907575700979712) in ICON CLUB - Selected channel: 👉 Tạo kênh thoại
+2025-09-14 21:07:36,216 - INFO - Community channel set to 👉 Tạo kênh thoại (874370800633909348) by huuannnn
+2025-09-14 21:07:46,634 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:08:01,035 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:08:05,394 - INFO - User huuannnn (561907575700979712) joined voice channel voice (1390665174289219737)
+2025-09-14 21:08:05,394 - ERROR - Ignoring exception in on_voice_state_update
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/annh/Project/Noema/commands/voice_events.py", line 15, in on_voice_state_update
+    print(self.community_channels)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'VoiceEvents' object has no attribute 'community_channels'
+2025-09-14 21:08:26,748 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-14 21:08:26,749 - INFO - logging in using static token
+2025-09-14 21:08:27,599 - INFO - Loaded extension: commands.reload
+2025-09-14 21:08:27,600 - INFO - Loaded extension: commands.select_community_channels
+2025-09-14 21:08:27,601 - INFO - Loaded extension: commands.remove_room
+2025-09-14 21:08:27,601 - INFO - Loaded extension: commands.voice_events
+2025-09-14 21:08:27,602 - INFO - Loaded extension: commands.ping
+2025-09-14 21:08:28,280 - INFO - Shard ID None has connected to Gateway (Session ID: 85a43becf27bb3d1a3b40b6d9e26748b).
+2025-09-14 21:08:29,316 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416787597140693085)
+2025-09-14 21:08:29,316 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-14 21:08:29,317 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-14 21:08:29,834 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416787597140693085)
+2025-09-14 21:08:29,834 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-14 21:08:30,311 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-14 21:08:30,851 - INFO - Successfully synced 4 command(s)
+2025-09-14 21:08:41,846 - ERROR - Error in select_community_channels command: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2025-09-14 21:08:52,345 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-14 21:08:52,346 - INFO - logging in using static token
+2025-09-14 21:08:53,131 - INFO - Loaded extension: commands.reload
+2025-09-14 21:08:53,132 - INFO - Loaded extension: commands.select_community_channels
+2025-09-14 21:08:53,133 - INFO - Loaded extension: commands.remove_room
+2025-09-14 21:08:53,134 - INFO - Loaded extension: commands.voice_events
+2025-09-14 21:08:53,135 - INFO - Loaded extension: commands.ping
+2025-09-14 21:08:53,938 - INFO - Shard ID None has connected to Gateway (Session ID: 8a5021656dbbe207568325928ef109a0).
+2025-09-14 21:08:55,956 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-14 21:09:02,023 - INFO - Selection community channels command used by huuannnn (561907575700979712) in AIAI - Selected channel: 👉 Create Voice Room
+2025-09-14 21:09:02,023 - INFO - Community channel set to 👉 Create Voice Room (1391393765343891467) by huuannnn
+2025-09-14 21:09:10,166 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:09:20,828 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-14 21:09:20,828 - ERROR - Ignoring exception in on_voice_state_update
+Traceback (most recent call last):
+  File "/Users/annh/env/lib/python3.13/site-packages/discord/client.py", line 481, in _run_event
+    await coro(*args, **kwargs)
+  File "/Users/annh/Project/Noema/commands/voice_events.py", line 15, in on_voice_state_update
+    print(self.community_channels)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'VoiceEvents' object has no attribute 'community_channels'
+2025-09-14 21:09:30,732 - INFO - Successfully synced 4 command(s)
+2025-09-14 21:09:45,638 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-14 21:09:45,639 - INFO - logging in using static token
+2025-09-14 21:09:46,468 - INFO - Loaded extension: commands.reload
+2025-09-14 21:09:46,469 - INFO - Loaded extension: commands.select_community_channels
+2025-09-14 21:09:46,469 - INFO - Loaded extension: commands.remove_room
+2025-09-14 21:09:46,471 - INFO - Loaded extension: commands.voice_events
+2025-09-14 21:09:46,472 - INFO - Loaded extension: commands.ping
+2025-09-14 21:09:47,142 - INFO - Shard ID None has connected to Gateway (Session ID: 73ef8a62f10d11dfe4d836e39e97b6d0).
+2025-09-14 21:09:48,816 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416787913622159533)
+2025-09-14 21:09:48,816 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-14 21:09:48,817 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-14 21:09:49,125 - ERROR - Error deleting channels for Nguyễn Hữu An: 404 Not Found (error code: 10003): Unknown Channel
+2025-09-14 21:09:49,169 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-14 21:09:49,539 - INFO - Successfully synced 4 command(s)
+2025-09-14 21:09:59,978 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:10:18,087 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:11:07,765 - INFO - Reload command used by huuannnn (561907575700979712) in ICON CLUB
+2025-09-14 21:11:08,173 - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1390891753875181588/commands responded with 429. Retrying in 29.90 seconds.
+2025-09-14 21:11:16,706 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:11:40,329 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:11:49,445 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:12:31,647 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:12:38,181 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-14 21:12:38,181 - INFO - logging in using static token
+2025-09-14 21:12:38,955 - INFO - Loaded extension: commands.reload
+2025-09-14 21:12:38,960 - INFO - Loaded extension: commands.select_community_channels
+2025-09-14 21:12:38,962 - INFO - Loaded extension: commands.remove_room
+2025-09-14 21:12:38,963 - INFO - Loaded extension: commands.voice_events
+2025-09-14 21:12:38,964 - INFO - Loaded extension: commands.ping
+2025-09-14 21:12:40,026 - INFO - Shard ID None has connected to Gateway (Session ID: 4a0747564b48fbfac5ca56df0a2e4f37).
+2025-09-14 21:12:42,070 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-14 21:12:42,588 - INFO - Successfully synced 4 command(s)
+2025-09-14 21:12:46,285 - ERROR - Interaction not found for select_community_channels command by huuannnn
+2025-09-14 21:13:08,058 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-14 21:13:08,059 - INFO - logging in using static token
+2025-09-14 21:13:08,905 - INFO - Loaded extension: commands.reload
+2025-09-14 21:13:08,907 - INFO - Loaded extension: commands.select_community_channels
+2025-09-14 21:13:08,908 - INFO - Loaded extension: commands.remove_room
+2025-09-14 21:13:08,908 - INFO - Loaded extension: commands.voice_events
+2025-09-14 21:13:08,908 - INFO - Loaded extension: commands.ping
+2025-09-14 21:13:09,645 - INFO - Shard ID None has connected to Gateway (Session ID: ae84f0fde9f8f8740c21405033135f17).
+2025-09-14 21:13:11,674 - INFO - Bot logged in as Noema (ID: 1390891753875181588)
+2025-09-14 21:13:24,677 - INFO - Selection community channels command used by huuannnn (561907575700979712) in ICON CLUB - Selected channel: 👉 Tạo kênh thoại
+2025-09-14 21:13:24,678 - INFO - Community channel set to 👉 Tạo kênh thoại (874370800633909348) by huuannnn
+2025-09-14 21:13:40,077 - INFO - Selection community channels command used by huuannnn (561907575700979712) in AIAI - Selected channel: 👉 Create Voice Room
+2025-09-14 21:13:40,077 - INFO - Community channel set to 👉 Create Voice Room (1391393765343891467) by huuannnn
+2025-09-14 21:13:42,534 - INFO - Successfully synced 4 command(s)
+2025-09-14 21:13:55,385 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Create Voice Room (1391393765343891467)
+2025-09-14 21:13:55,385 - INFO - User huuannnn joined community channel 👉 Create Voice Room
+2025-09-14 21:13:55,901 - INFO - Created voice channel Nguyễn Hữu An in category: Community
+2025-09-14 21:13:56,265 - INFO - Created text channel nguyễn-hữu-an in category: Community
+2025-09-14 21:13:56,868 - INFO - Updated text channel position to be after voice channel
+2025-09-14 21:13:56,869 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416789064736182354), Text=nguyễn-hữu-an (1416789066808033410)
+2025-09-14 21:13:57,798 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-14 21:14:01,490 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416789064736182354)
+2025-09-14 21:14:01,491 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-14 21:14:01,491 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-14 21:14:01,491 - INFO - Found paired text channel: nguyễn-hữu-an (1416789066808033410)
+2025-09-14 21:14:01,844 - ERROR - Error deleting channels for Nguyễn Hữu An: 404 Not Found (error code: 10003): Unknown Channel
+2025-09-14 21:14:04,121 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-14 21:14:04,121 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-14 21:14:04,556 - INFO - Created voice channel Nguyễn Hữu An in category: --- Voice Channels ---
+2025-09-14 21:14:04,952 - INFO - Created text channel nguyễn-hữu-an in category: --- Voice Channels ---
+2025-09-14 21:14:10,418 - INFO - Updated text channel position to be after voice channel
+2025-09-14 21:14:10,418 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416789101532807189), Text=nguyễn-hữu-an (1416789103147745350)
+2025-09-14 21:14:11,195 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-14 21:14:28,974 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416789101532807189)
+2025-09-14 21:14:28,975 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-14 21:14:28,975 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-14 21:14:28,975 - ERROR - Error deleting channels for Nguyễn Hữu An: 'NoneType' object has no attribute 'name'
+2025-09-14 21:14:44,372 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Tạo kênh thoại (874370800633909348)
+2025-09-14 21:14:44,374 - INFO - User huuannnn joined community channel 👉 Tạo kênh thoại
+2025-09-14 21:14:44,901 - INFO - Created voice channel Nguyễn Hữu An in category: --- Voice Channels ---
+2025-09-14 21:14:45,333 - INFO - Created text channel nguyễn-hữu-an in category: --- Voice Channels ---
+2025-09-14 21:14:49,907 - INFO - Updated text channel position to be after voice channel
+2025-09-14 21:14:49,907 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416789270768652509), Text=nguyễn-hữu-an (1416789272425402378)
+2025-09-14 21:14:50,751 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-14 21:14:59,852 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416789270815047802)
+2025-09-14 21:14:59,852 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-14 21:14:59,852 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-14 21:14:59,875 - INFO - User huuannnn (561907575700979712) joined voice channel 👉 Create Voice Room (1391393765343891467)
+2025-09-14 21:14:59,875 - INFO - User huuannnn joined community channel 👉 Create Voice Room
+2025-09-14 21:15:00,490 - INFO - Created voice channel Nguyễn Hữu An in category: Community
+2025-09-14 21:15:00,547 - INFO - Deleted auto-created voice channel: Nguyễn Hữu An (1416789270815047802)
+2025-09-14 21:15:00,547 - INFO - Successfully deleted auto-created room for Nguyễn Hữu An
+2025-09-14 21:15:01,122 - INFO - Created text channel nguyễn-hữu-an in category: Community
+2025-09-14 21:15:01,900 - INFO - Updated text channel position to be after voice channel
+2025-09-14 21:15:01,900 - INFO - Created room for Nguyễn Hữu An: Voice=Nguyễn Hữu An (1416789335965040650), Text=nguyễn-hữu-an (1416789337961402390)
+2025-09-14 21:15:02,751 - INFO - Moved huuannnn to their personal room Nguyễn Hữu An
+2025-09-14 21:15:07,594 - INFO - User huuannnn (561907575700979712) left voice channel Nguyễn Hữu An (1416789335965040650)
+2025-09-14 21:15:07,594 - INFO - User huuannnn left their personal room Nguyễn Hữu An
+2025-09-14 21:15:07,594 - INFO - Personal room Nguyễn Hữu An is now empty, deleting auto-created channels
+2025-09-14 21:15:07,594 - INFO - Found paired text channel: nguyễn-hữu-an (1416789337961402390)
+2025-09-14 21:15:07,889 - ERROR - Error deleting channels for Nguyễn Hữu An: 404 Not Found (error code: 10003): Unknown Channel
