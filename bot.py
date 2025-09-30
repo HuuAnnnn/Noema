@@ -21,6 +21,8 @@ class NoemaBot(commands.Bot):
         intents.message_content = True
         intents.guilds = True
         intents.voice_states = True
+        intents.members = True  # Cần để đọc thông tin members
+        intents.presences = True  # Cần để đọc trạng thái online/offline
         super().__init__(command_prefix=commands.when_mentioned_or('/'), description='Noema, your helpful Discord bot.', intents=intents, **kwargs)
         self.community_channels = {}
         # Store voice-text channel pairs
