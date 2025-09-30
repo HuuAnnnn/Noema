@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for noema on 2025-07-06T19:00:26+07:00
+# fly.toml app configuration file generated for noema-empty-mountain-2446 on 2025-09-30T10:31:23+07:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'noema'
+app = 'noema-empty-mountain-2446'
 primary_region = 'sin'
 
 [build]
@@ -15,7 +15,7 @@ primary_region = 'sin'
 [http_service]
   internal_port = 8080
   force_https = true
-  auto_stop_machines = 'off'
+  auto_stop_machines = false
   auto_start_machines = true
   min_machines_running = 0
   processes = ['app']
