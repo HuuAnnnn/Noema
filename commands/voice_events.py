@@ -210,6 +210,32 @@ class VoiceEvents(commands.Cog):
                 f"Created channels for {member.display_name}: Voice={voice_channel.id}, Text={text_channel.id}"
             )
 
+            # Cấp quyền quản lý kênh cho người tạo phòng
+            try:
+                # Tạo permission overwrites cho người tạo phòng
+                overwrites = {
+                    member: discord.PermissionOverwrite(
+                        manage_channels=True,  # Quyền quản lý kênh
+                        kick_members=True,
+                    )
+                }
+
+                # Áp dụng quyền cho cả voice và text channel
+                await voice_channel.edit(overwrites=overwrites)
+                await text_channel.edit(overwrites=overwrites)
+
+                logger.info(
+                    f"Granted management permissions to {member.display_name} for their channels"
+                )
+            except discord.Forbidden:
+                logger.warning(
+                    f"Failed to grant management permissions to {member.display_name} - insufficient bot permissions"
+                )
+            except Exception as e:
+                logger.error(
+                    f"Error granting permissions to {member.display_name}: {str(e)}"
+                )
+
             # Chỉ sửa position nếu cần thiết
             if text_channel.position != voice_channel.position + 1:
                 try:
